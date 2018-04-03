@@ -1,0 +1,67 @@
+h1 {
+    color: gray;
+}
+
+.favorites {
+    color: green;
+}
+
+.childhood {
+    color: red;
+}
+
+#show1 {
+    color: deeppink;
+}
+
+#show2 {
+    color: darkorange
+}
+
+#show3 {
+    color: darksalmon
+}
+
+#show4 {
+    color: darkred
+}
+
+#show5 {
+    color: darkorchid
+}
+
+.names {
+    color: darkblue;
+}
+
+.places {
+    color: lightgray;
+}
+
+.restaurants {
+    color: lightblue;
+}
+
+#paris {
+    color: black;
+}
+
+#texas {
+    color: aqua;
+}
+
+#cali {
+    color: cadetblue;
+}
+
+#hawaii {
+    color: dodgerblue;
+}
+
+#rome {
+    color: indigo;
+}
+
+.list {
+    border: 2px black solid;
+}
