@@ -1,0 +1,1 @@
+The objective of this lab assignment is to practice using the fundamentals of CSS that were explored in lecture.

@@ -1,0 +1,82 @@
+/* Back up fonts have been added */
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+body {
+    background-color: lightgrey;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    /* This removes the underline "decoration" on links */
+    text-decoration: none; 
+    color: red;
+    /* border: 1px solid red;  */
+}
+
+a:hover {
+    cursor: pointer;
+    color: blue;
+    font-weight: 600;
+}
+
+.boxes {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 20%;
+    height: 150px;
+}
+
+span {
+    color: blue;
+    font-weight: 200;
+}
+
+/* The instruction says "Add a width of 20% to each div" so I added 
+this rule but I think it just wanted me to add the rule to .boxes */
+
+/* div {
+    width: 20%;
+} */
+
+.container {
+    position: absolute;
+}
+
+#box1 {
+    background-color: aqua
+}
+
+#box2 {
+    background-color: blueviolet;
+    /* position: absolute;
+    display: block;
+    margin-left: 77%; */
+    /* margin-left: 20em; */
+    /* margin-top: -9.6em; 
+    float: right; */
+}
+
+#box3 {
+    background-color: chartreuse;
+}
+
+#box4 {
+    background-color: crimson;
+}
+
+.image {
+    width: 20px;
+    height: 20px;
+    background-color: coral;
+    position: relative;
+    margin-left: -0.5em;
+    margin-top: -6em;
+}
