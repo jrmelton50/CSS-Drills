@@ -1,1 +1,18 @@
-The objective of this lab assignment is to practice using the fundamentals of CSS that were explored in lecture.
+We learned CSS attributes such as:
+* font-family
+* background-color
+* text-align
+* text-decoration
+* color
+* cursor
+* font-weight
+* display
+* margin
+* padding
+* border
+* border-radius
+* width
+* height
+* position
+* margin-left
+* margin-top
